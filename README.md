@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Ramirez</h1>
+
+<img src="https://user-images.githubusercontent.com/78050696/105995948-8933d580-605e-11eb-8a63-14ea01926d21.png" width="90%"></img> 
 <h3 align="center">A passionate full stack developer from California, USA</h3>
 
 I am currently delving deep into *Python* 🚂  
