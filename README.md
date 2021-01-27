@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rafael Ramirez</h1>
 <h3 align="center">A passionate full stack developer from California, USA</h3>
 
-I am currently delving deep into *Python* 🚂   
+I am currently delving deep into *Python* 🚂  
 
-* 🤔   Interested in *Machine Learning*.
+- ⚡ Fun fact **I love to paddleboard in the summer**
 
-* 🌱   Continuously learning  *Data Analysis* & *SQL*.
+* 🤔   Interested in *Machine Learning*
 
-* 🎓   Completed Masters Degree in Business Admin at [Clarion University](http://www.clarion.edu//).
+* 🌱   Continuously learning  *Data Analysis* & *SQL*
+
+* 🎓   Completed *Masters Degree in Business Admin* at [Clarion University](http://www.clarion.edu//)
 
 - 📫 How to reach me **rafaeljrramirez@outlook.com**
 
-- ⚡ Fun fact **I love to paddleboard in the summer**
+- 💪🏼 2021 Goals: Keep learning all about *programming and analytics*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
