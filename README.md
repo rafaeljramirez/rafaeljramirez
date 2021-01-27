@@ -5,7 +5,7 @@ I am currently delving deep into *Python* 🚂
 
 * 🤔   Interested in *Machine Learning*.
 
-* 🌱   Continuously learning  *Finance* & *SQL*.
+* 🌱   Continuously learning  *Data Analysis* & *SQL*.
 
 * 🎓   Completed Masters Degree in Business Admin at [Clarion University](http://www.clarion.edu//).
 
